@@ -1,0 +1,5 @@
+*.pyc
+media/*
+*.DS_Store
+local/*
+config/settings.py
